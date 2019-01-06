@@ -1,1 +1,0 @@
-# projeto-interface-com-ionic-faculdade
